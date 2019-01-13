@@ -8,4 +8,4 @@ src/DemoGit.java
     - Main application outputs author's name
 
 resources/RUN.txt
-    - output of DemoGit class displays author's name.
+    - output of DemoGit class displays author's name
